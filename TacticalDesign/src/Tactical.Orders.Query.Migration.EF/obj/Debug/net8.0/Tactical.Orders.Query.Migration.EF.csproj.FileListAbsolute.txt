@@ -1,0 +1,17 @@
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\bin\Debug\net8.0\Tactical.Orders.Query.Migration.EF.deps.json
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\bin\Debug\net8.0\Tactical.Orders.Query.Migration.EF.dll
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\bin\Debug\net8.0\Tactical.Orders.Query.Migration.EF.pdb
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\obj\Debug\net8.0\Tactical.Orders.Query.Migration.EF.GeneratedMSBuildEditorConfig.editorconfig
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\obj\Debug\net8.0\Tactical.Orders.Query.Migration.EF.AssemblyInfoInputs.cache
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\obj\Debug\net8.0\Tactical.Orders.Query.Migration.EF.AssemblyInfo.cs
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\obj\Debug\net8.0\Tactical.Orders.Query.Migration.EF.csproj.CoreCompileInputs.cache
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\obj\Debug\net8.0\Tactical.Orders.Query.Migration.EF.dll
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\obj\Debug\net8.0\refint\Tactical.Orders.Query.Migration.EF.dll
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\obj\Debug\net8.0\Tactical.Orders.Query.Migration.EF.pdb
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\obj\Debug\net8.0\ref\Tactical.Orders.Query.Migration.EF.dll
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\bin\Debug\net8.0\Tactical.Orders.Query.Migration.EF.runtimeconfig.json
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\obj\Debug\net8.0\Tactical.Orders.Query.Migration.EF.csproj.AssemblyReference.cache
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\obj\Debug\net8.0\Tactical.Orders.Query.Migration.EF.genruntimeconfig.cache
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\bin\Debug\net8.0\Tactical.Orders.Query.DataModel.dll
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\bin\Debug\net8.0\Tactical.Orders.Query.DataModel.pdb
+H:\MyClass\Tactical Design\Tac-S12\TacticalDesign\TacticalDesign\src\Tactical.Orders.Query.Migration.EF\obj\Debug\net8.0\Tactical.Orders.Query.Migration.EF.csproj.CopyComplete

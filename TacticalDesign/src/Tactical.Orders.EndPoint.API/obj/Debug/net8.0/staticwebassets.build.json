@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qWVi1gCdiXJinjBlpizO0Y/zylfHzkHv1A1KsHUkPng=",
+  "Source": "Tactical.Orders.EndPoint.API",
+  "BasePath": "_content/Tactical.Orders.EndPoint.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

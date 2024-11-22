@@ -1,0 +1,14 @@
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\bin\Debug\net8.0\Tactical.Order.Query.DataModel.deps.json
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\bin\Debug\net8.0\Tactical.Order.Query.DataModel.dll
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\bin\Debug\net8.0\Tactical.Order.Query.DataModel.pdb
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\obj\Debug\net8.0\Tactical.Order.Query.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\obj\Debug\net8.0\Tactical.Order.Query.DataModel.AssemblyInfoInputs.cache
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\obj\Debug\net8.0\Tactical.Order.Query.DataModel.AssemblyInfo.cs
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\obj\Debug\net8.0\Tactical.Order.Query.DataModel.csproj.CoreCompileInputs.cache
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\obj\Debug\net8.0\Tactical.Order.Query.DataModel.dll
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\obj\Debug\net8.0\refint\Tactical.Order.Query.DataModel.dll
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\obj\Debug\net8.0\Tactical.Order.Query.DataModel.pdb
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\obj\Debug\net8.0\ref\Tactical.Order.Query.DataModel.dll
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\bin\Debug\net8.0\Tactical.Order.Query.DataModel.runtimeconfig.json
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\obj\Debug\net8.0\Tactical.Order.Query.DataModel.csproj.AssemblyReference.cache
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.DataModel\obj\Debug\net8.0\Tactical.Order.Query.DataModel.genruntimeconfig.cache

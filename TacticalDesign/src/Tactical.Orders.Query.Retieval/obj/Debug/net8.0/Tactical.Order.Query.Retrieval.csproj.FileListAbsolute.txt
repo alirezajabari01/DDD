@@ -1,0 +1,17 @@
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\bin\Debug\net8.0\Tactical.Order.Query.Retrieval.deps.json
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\bin\Debug\net8.0\Tactical.Order.Query.Retrieval.dll
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\bin\Debug\net8.0\Tactical.Order.Query.Retrieval.pdb
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\bin\Debug\net8.0\Tactical.Order.Query.Contract.dll
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\bin\Debug\net8.0\Tactical.Order.Query.DataModel.dll
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\bin\Debug\net8.0\Tactical.Order.Query.Contract.pdb
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\bin\Debug\net8.0\Tactical.Order.Query.DataModel.pdb
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\obj\Debug\net8.0\Tactical.Order.Query.Retrieval.csproj.AssemblyReference.cache
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\obj\Debug\net8.0\Tactical.Order.Query.Retrieval.GeneratedMSBuildEditorConfig.editorconfig
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\obj\Debug\net8.0\Tactical.Order.Query.Retrieval.AssemblyInfoInputs.cache
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\obj\Debug\net8.0\Tactical.Order.Query.Retrieval.AssemblyInfo.cs
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\obj\Debug\net8.0\Tactical.Order.Query.Retrieval.csproj.CoreCompileInputs.cache
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\obj\Debug\net8.0\Tactical.Order.Query.Retrieval.csproj.CopyComplete
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\obj\Debug\net8.0\Tactical.Order.Query.Retrieval.dll
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\obj\Debug\net8.0\refint\Tactical.Order.Query.Retrieval.dll
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\obj\Debug\net8.0\Tactical.Order.Query.Retrieval.pdb
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Retieval\obj\Debug\net8.0\ref\Tactical.Order.Query.Retrieval.dll

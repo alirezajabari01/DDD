@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Tactical.Order.Application.Contract\\Tactical.Order.Application.Contract.csproj": {}
+  },
+  "projects": {
+    "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Application\\Tactical.Framework.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Application\\Tactical.Framework.Application.csproj",
+        "projectName": "Tactical.Framework.Application",
+        "projectPath": "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Application\\Tactical.Framework.Application.csproj",
+        "packagesPath": "C:\\Users\\Behnam\\.nuget\\packages\\",
+        "outputPath": "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Behnam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Core\\Tactical.Framework.Core.csproj": {
+                "projectPath": "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Core\\Tactical.Framework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Core\\Tactical.Framework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Core\\Tactical.Framework.Core.csproj",
+        "projectName": "Tactical.Framework.Core",
+        "projectPath": "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Core\\Tactical.Framework.Core.csproj",
+        "packagesPath": "C:\\Users\\Behnam\\.nuget\\packages\\",
+        "outputPath": "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Behnam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "IdGen": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Tactical.Order.Application.Contract\\Tactical.Order.Application.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Tactical.Order.Application.Contract\\Tactical.Order.Application.Contract.csproj",
+        "projectName": "Tactical.Order.Application.Contract",
+        "projectPath": "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Tactical.Order.Application.Contract\\Tactical.Order.Application.Contract.csproj",
+        "packagesPath": "C:\\Users\\Behnam\\.nuget\\packages\\",
+        "outputPath": "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Tactical.Order.Application.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Behnam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Application\\Tactical.Framework.Application.csproj": {
+                "projectPath": "H:\\MyClass\\Tactical Design\\Tac-S07\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Application\\Tactical.Framework.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

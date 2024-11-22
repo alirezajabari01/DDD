@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tactical.Orders.EndPoint.API.props" />
+</Project>

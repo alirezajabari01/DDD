@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Tactical.Framework.Persistence</id>
+    <version>1.0.0</version>
+    <authors>Tactical.Framework.Persistence</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="H:\MyClass\Tactical Design\Tac-S19\TacticalDesign\TacticalDesign\src\Framework\Tactical.Framework.Persistence\bin\Debug\net8.0\Tactical.Framework.Persistence.dll" target="lib\net8.0\Tactical.Framework.Persistence.dll" />
+  </files>
+</package>

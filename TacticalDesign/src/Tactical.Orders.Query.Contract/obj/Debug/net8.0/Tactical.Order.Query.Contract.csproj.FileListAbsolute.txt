@@ -1,0 +1,15 @@
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\bin\Debug\net8.0\Tactical.Order.Query.Contract.deps.json
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\bin\Debug\net8.0\Tactical.Order.Query.Contract.dll
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\bin\Debug\net8.0\Tactical.Order.Query.Contract.pdb
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\bin\Debug\net8.0\Tactical.Order.Query.DataModel.dll
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\bin\Debug\net8.0\Tactical.Order.Query.DataModel.pdb
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\obj\Debug\net8.0\Tactical.Order.Query.Contract.csproj.AssemblyReference.cache
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\obj\Debug\net8.0\Tactical.Order.Query.Contract.GeneratedMSBuildEditorConfig.editorconfig
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\obj\Debug\net8.0\Tactical.Order.Query.Contract.AssemblyInfoInputs.cache
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\obj\Debug\net8.0\Tactical.Order.Query.Contract.AssemblyInfo.cs
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\obj\Debug\net8.0\Tactical.Order.Query.Contract.csproj.CoreCompileInputs.cache
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\obj\Debug\net8.0\Tactical.Order.Query.Contract.csproj.CopyComplete
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\obj\Debug\net8.0\Tactical.Order.Query.Contract.dll
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\obj\Debug\net8.0\refint\Tactical.Order.Query.Contract.dll
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\obj\Debug\net8.0\Tactical.Order.Query.Contract.pdb
+H:\MyClass\Tactical Design\Tac-S07\TacticalDesign\TacticalDesign\src\Tactical.Order.Query.Contract\obj\Debug\net8.0\ref\Tactical.Order.Query.Contract.dll

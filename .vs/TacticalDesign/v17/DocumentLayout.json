@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{759932F9-C03D-4816-930A-7EA8065DCC5E}|TacticalDesign\\src\\Tactical.Orders.Domain\\Tactical.Orders.Domain.csproj|g:\\programming\\tactical design\\tac-s19\\tacticaldesign\\tacticaldesign\\src\\tactical.orders.domain\\orders\\orderproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759932F9-C03D-4816-930A-7EA8065DCC5E}|TacticalDesign\\src\\Tactical.Orders.Domain\\Tactical.Orders.Domain.csproj|solutionrelative:tacticaldesign\\src\\tactical.orders.domain\\orders\\orderproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759932F9-C03D-4816-930A-7EA8065DCC5E}|TacticalDesign\\src\\Tactical.Orders.Domain\\Tactical.Orders.Domain.csproj|g:\\programming\\tactical design\\tac-s19\\tacticaldesign\\tacticaldesign\\src\\tactical.orders.domain\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759932F9-C03D-4816-930A-7EA8065DCC5E}|TacticalDesign\\src\\Tactical.Orders.Domain\\Tactical.Orders.Domain.csproj|solutionrelative:tacticaldesign\\src\\tactical.orders.domain\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A63ABC5-8769-42BD-A485-27F3A99109BD}|TacticalDesign\\tests\\Tactical.Orders.Domain.UnitTest\\Tactical.Orders.Domain.UnitTest.csproj|g:\\programming\\tactical design\\tac-s19\\tacticaldesign\\tacticaldesign\\tests\\tactical.orders.domain.unittest\\orderstatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A63ABC5-8769-42BD-A485-27F3A99109BD}|TacticalDesign\\tests\\Tactical.Orders.Domain.UnitTest\\Tactical.Orders.Domain.UnitTest.csproj|solutionrelative:tacticaldesign\\tests\\tactical.orders.domain.unittest\\orderstatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759932F9-C03D-4816-930A-7EA8065DCC5E}|TacticalDesign\\src\\Tactical.Orders.Domain\\Tactical.Orders.Domain.csproj|g:\\programming\\tactical design\\tac-s19\\tacticaldesign\\tacticaldesign\\src\\tactical.orders.domain\\orders\\valueobjects\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759932F9-C03D-4816-930A-7EA8065DCC5E}|TacticalDesign\\src\\Tactical.Orders.Domain\\Tactical.Orders.Domain.csproj|solutionrelative:tacticaldesign\\src\\tactical.orders.domain\\orders\\valueobjects\\orderstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A060B32A-563E-4531-A837-222498086DF1}|TacticalDesign\\src\\Tactical.Orders.Application\\Tactical.Orders.Application.csproj|g:\\programming\\tactical design\\tac-s19\\tacticaldesign\\tacticaldesign\\src\\tactical.orders.application\\orders\\commandhandlers\\changeorderstatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A060B32A-563E-4531-A837-222498086DF1}|TacticalDesign\\src\\Tactical.Orders.Application\\Tactical.Orders.Application.csproj|solutionrelative:tacticaldesign\\src\\tactical.orders.application\\orders\\commandhandlers\\changeorderstatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F325FC-F935-4283-8E4F-126B6F71D1DD}|TacticalDesign\\src\\Tactical.Orders.Persistence.EF\\Tactical.Orders.Persistence.EF.csproj|g:\\programming\\tactical design\\tac-s19\\tacticaldesign\\tacticaldesign\\src\\tactical.orders.persistence.ef\\orders\\entitytypeconfigurations\\orderentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F325FC-F935-4283-8E4F-126B6F71D1DD}|TacticalDesign\\src\\Tactical.Orders.Persistence.EF\\Tactical.Orders.Persistence.EF.csproj|solutionrelative:tacticaldesign\\src\\tactical.orders.persistence.ef\\orders\\entitytypeconfigurations\\orderentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E90520F-5BEB-4AE2-A3E1-E60582FDD84C}|TacticalDesign\\src\\Tactical.Orders.ACL.Notification\\Tactical.Orders.ACL.Notification.csproj|g:\\programming\\tactical design\\tac-s19\\tacticaldesign\\tacticaldesign\\src\\tactical.orders.acl.notification\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E90520F-5BEB-4AE2-A3E1-E60582FDD84C}|TacticalDesign\\src\\Tactical.Orders.ACL.Notification\\Tactical.Orders.ACL.Notification.csproj|solutionrelative:tacticaldesign\\src\\tactical.orders.acl.notification\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759932F9-C03D-4816-930A-7EA8065DCC5E}|TacticalDesign\\src\\Tactical.Orders.Domain\\Tactical.Orders.Domain.csproj|g:\\programming\\tactical design\\tac-s19\\tacticaldesign\\tacticaldesign\\src\\tactical.orders.domain\\orders\\contracts\\orderstates\\accepted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759932F9-C03D-4816-930A-7EA8065DCC5E}|TacticalDesign\\src\\Tactical.Orders.Domain\\Tactical.Orders.Domain.csproj|solutionrelative:tacticaldesign\\src\\tactical.orders.domain\\orders\\contracts\\orderstates\\accepted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749D7B6D-B7CC-4D39-911B-0F38BF562F9A}|TacticalDesign\\src\\Tactical.Orders.Domain.Contract\\Tactical.Orders.Domain.Contract.csproj|g:\\programming\\tactical design\\tac-s19\\tacticaldesign\\tacticaldesign\\src\\tactical.orders.domain.contract\\tactical.orders.domain.contract.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{749D7B6D-B7CC-4D39-911B-0F38BF562F9A}|TacticalDesign\\src\\Tactical.Orders.Domain.Contract\\Tactical.Orders.Domain.Contract.csproj|solutionrelative:tacticaldesign\\src\\tactical.orders.domain.contract\\tactical.orders.domain.contract.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CFEB07-E9AC-41B9-89A0-4DB3E8A41861}|TacticalDesign\\src\\Framework\\Tactical.Framework.Persistence.EF\\Tactical.Framework.Persistence.EF.csproj|g:\\programming\\tactical design\\tac-s19\\tacticaldesign\\tacticaldesign\\src\\framework\\tactical.framework.persistence.ef\\outboxeventitemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CFEB07-E9AC-41B9-89A0-4DB3E8A41861}|TacticalDesign\\src\\Framework\\Tactical.Framework.Persistence.EF\\Tactical.Framework.Persistence.EF.csproj|solutionrelative:tacticaldesign\\src\\framework\\tactical.framework.persistence.ef\\outboxeventitemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\Order.cs",
+              "RelativeDocumentMoniker": "TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\Order.cs",
+              "ToolTip": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\Order.cs",
+              "RelativeToolTip": "TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\Order.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAADkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:49:10.627Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangeOrderStateCommandHandler.cs",
+              "DocumentMoniker": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Application\\Orders\\CommandHandlers\\ChangeOrderStateCommandHandler.cs",
+              "RelativeDocumentMoniker": "TacticalDesign\\src\\Tactical.Orders.Application\\Orders\\CommandHandlers\\ChangeOrderStateCommandHandler.cs",
+              "ToolTip": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Application\\Orders\\CommandHandlers\\ChangeOrderStateCommandHandler.cs",
+              "RelativeToolTip": "TacticalDesign\\src\\Tactical.Orders.Application\\Orders\\CommandHandlers\\ChangeOrderStateCommandHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA9wBwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:40:40.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStateTests.cs",
+              "DocumentMoniker": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\tests\\Tactical.Orders.Domain.UnitTest\\OrderStateTests.cs",
+              "RelativeDocumentMoniker": "TacticalDesign\\tests\\Tactical.Orders.Domain.UnitTest\\OrderStateTests.cs",
+              "ToolTip": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\tests\\Tactical.Orders.Domain.UnitTest\\OrderStateTests.cs",
+              "RelativeToolTip": "TacticalDesign\\tests\\Tactical.Orders.Domain.UnitTest\\OrderStateTests.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:40:25.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderEntityTypeConfiguration.cs",
+              "DocumentMoniker": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Persistence.EF\\Orders\\EntityTypeConfigurations\\OrderEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "TacticalDesign\\src\\Tactical.Orders.Persistence.EF\\Orders\\EntityTypeConfigurations\\OrderEntityTypeConfiguration.cs",
+              "ToolTip": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Persistence.EF\\Orders\\EntityTypeConfigurations\\OrderEntityTypeConfiguration.cs",
+              "RelativeToolTip": "TacticalDesign\\src\\Tactical.Orders.Persistence.EF\\Orders\\EntityTypeConfigurations\\OrderEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:46:31.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.ACL.Notification\\NotificationService.cs",
+              "RelativeDocumentMoniker": "TacticalDesign\\src\\Tactical.Orders.ACL.Notification\\NotificationService.cs",
+              "ToolTip": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.ACL.Notification\\NotificationService.cs",
+              "RelativeToolTip": "TacticalDesign\\src\\Tactical.Orders.ACL.Notification\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:43:10.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderState.cs",
+              "DocumentMoniker": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\ValueObjects\\OrderState.cs",
+              "RelativeDocumentMoniker": "TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\ValueObjects\\OrderState.cs",
+              "ToolTip": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\ValueObjects\\OrderState.cs",
+              "RelativeToolTip": "TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\ValueObjects\\OrderState.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswBUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:51:19.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Accepted.cs",
+              "DocumentMoniker": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\Contracts\\OrderStates\\Accepted.cs",
+              "RelativeDocumentMoniker": "TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\Contracts\\OrderStates\\Accepted.cs",
+              "ToolTip": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\Contracts\\OrderStates\\Accepted.cs",
+              "RelativeToolTip": "TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\Contracts\\OrderStates\\Accepted.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:52:47.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderProperties.cs",
+              "DocumentMoniker": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\OrderProperties.cs",
+              "RelativeDocumentMoniker": "TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\OrderProperties.cs",
+              "ToolTip": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\OrderProperties.cs",
+              "RelativeToolTip": "TacticalDesign\\src\\Tactical.Orders.Domain\\Orders\\OrderProperties.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIAwwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:50:27.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tactical.Orders.Domain.Contract",
+              "DocumentMoniker": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Domain.Contract\\Tactical.Orders.Domain.Contract.csproj",
+              "RelativeDocumentMoniker": "TacticalDesign\\src\\Tactical.Orders.Domain.Contract\\Tactical.Orders.Domain.Contract.csproj",
+              "ToolTip": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Tactical.Orders.Domain.Contract\\Tactical.Orders.Domain.Contract.csproj",
+              "RelativeToolTip": "TacticalDesign\\src\\Tactical.Orders.Domain.Contract\\Tactical.Orders.Domain.Contract.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T11:49:10.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OutBoxEventItemFactory.cs",
+              "DocumentMoniker": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Persistence.EF\\OutBoxEventItemFactory.cs",
+              "RelativeDocumentMoniker": "TacticalDesign\\src\\Framework\\Tactical.Framework.Persistence.EF\\OutBoxEventItemFactory.cs",
+              "ToolTip": "G:\\Programming\\Tactical Design\\Tac-S19\\TacticalDesign\\TacticalDesign\\src\\Framework\\Tactical.Framework.Persistence.EF\\OutBoxEventItemFactory.cs",
+              "RelativeToolTip": "TacticalDesign\\src\\Framework\\Tactical.Framework.Persistence.EF\\OutBoxEventItemFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:49:10.648Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
